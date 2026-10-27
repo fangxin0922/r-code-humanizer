@@ -1,0 +1,4 @@
+interface:
+  display_name: "R Code Humanizer"
+  short_description: "Rewrite R code in a practical research-script style"
+  default_prompt: "Use $r-code-humanizer to rewrite the R code I provide in my reference style while preserving its analysis behavior."
